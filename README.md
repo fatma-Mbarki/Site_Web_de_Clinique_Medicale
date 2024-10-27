@@ -40,7 +40,7 @@ Technologies Utilisées
 Frontend : HTML, CSS, JavaScript pour une interface utilisateur interactive et moderne.
 Backend : PHP pour la logique de traitement et la gestion des données de la clinique.
 Installation et Déploiement
-Clonez ce dépôt : git clone (https://github.com/fatma-Mbarki/dentist_clinic_web)
+Clonez ce dépôt : git clone (https://github.com/fatma-Mbarki/Site_Web_de_Clinique_Medicale)
 Installez un serveur local (par exemple, XAMPP ou WAMP) et placez les fichiers dans le dossier racine (htdocs pour XAMPP).
 Configurez la base de données en important le fichier SQL fourni dans votre gestionnaire de base de données (phpMyAdmin).
 Lancez le serveur et accédez au site via http://localhost/nom-du-repo.
